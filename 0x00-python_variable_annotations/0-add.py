@@ -3,4 +3,5 @@
 
 
 def add(a: float, b: float) -> float:
+    """return a float type as annotated"""
     return a+b
