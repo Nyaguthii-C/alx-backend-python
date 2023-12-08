@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import math
 """Take float type and return floor value"""
+import math
 
 
 def floor(n: float) -> int:
