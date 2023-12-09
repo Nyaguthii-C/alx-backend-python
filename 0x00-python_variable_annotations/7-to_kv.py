@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""A function that takes mixed type args to return a tuple"""
+"""A function that takes mixed type input to return a tuple"""
 from typing import Tuple, Union
 
 
