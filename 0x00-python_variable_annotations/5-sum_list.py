@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-from typing import List
 """
 a type annotated function that takes list of float
 and return their sums as float
 """
+from typing import List
 
 
 def sum_list(input_list: List[float]) -> float:
